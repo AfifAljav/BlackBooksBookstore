@@ -3,8 +3,8 @@
     "afifaljavtea": "^1.1.2",
     "owali": "^1.2.1"
   },
-  "name": "woila",
-  "version": "1.0.0",
+  "name": "near-insribe",
+  "version": "1.2.2",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
